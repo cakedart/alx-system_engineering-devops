@@ -1,2 +1,1 @@
-#!/bin/bash
-script that prints out the current working directory
+It displays the contents list of your current directory.
