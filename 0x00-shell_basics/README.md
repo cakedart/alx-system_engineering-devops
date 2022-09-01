@@ -1,1 +1,1 @@
-displays current directories in long form
+Lists hidden flies
