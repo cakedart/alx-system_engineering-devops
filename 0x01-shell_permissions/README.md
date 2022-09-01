@@ -1,1 +1,1 @@
-changing ownership
+print current user
