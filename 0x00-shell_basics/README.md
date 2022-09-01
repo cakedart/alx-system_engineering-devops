@@ -1,1 +1,1 @@
-displays content of directories
+making a directory
