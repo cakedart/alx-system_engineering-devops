@@ -1,1 +1,1 @@
-same mode as olleh
+adds permission for everyone
