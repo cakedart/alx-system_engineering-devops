@@ -1,1 +1,1 @@
-lets another user execute files
+gives user multiple permissions
