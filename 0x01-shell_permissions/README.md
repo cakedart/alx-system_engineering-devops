@@ -1,1 +1,1 @@
-gives user multiple permissions
+gives everypne permissions
