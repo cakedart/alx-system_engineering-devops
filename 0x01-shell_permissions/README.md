@@ -1,1 +1,1 @@
-gives everypne permissions
+no permissiond for owner
