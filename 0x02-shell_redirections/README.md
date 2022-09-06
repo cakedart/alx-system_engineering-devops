@@ -1,1 +1,1 @@
-jumps to last ten lines
+jumps to first ten lines
