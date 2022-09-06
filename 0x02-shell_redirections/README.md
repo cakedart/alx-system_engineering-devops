@@ -1,1 +1,1 @@
-jumps to first ten lines
+displays certain text
