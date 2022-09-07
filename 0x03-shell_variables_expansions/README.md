@@ -1,1 +1,1 @@
-create local variable
+local variable bset school
