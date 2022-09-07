@@ -1,1 +1,1 @@
-local variable bset school
+global variable
