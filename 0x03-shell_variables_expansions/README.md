@@ -1,1 +1,1 @@
-script that lists environment variables.
+create local variable
